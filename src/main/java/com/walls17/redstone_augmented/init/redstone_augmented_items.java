@@ -18,5 +18,5 @@ public class redstone_augmented_items {
     public static final RegistryObject<Item> BONE_GLUE = ITEMS.register("bone_glue", bone_glue::new);
     //item blocks
     public static final RegistryObject<Item> CARDBOARD_ITEM = ITEMS.register("cardboard", () -> new cardboard_item(redstone_augmented_blocks.CARDBOARD.get()));
-    public static final RegistryObject<Item> PULSE_DECLINER_ITEM = ITEMS.register("pulse_decliner", () -> new pulse_decliner_item(redstone_augmented_blocks.CARDBOARD.get()));
+    public static final RegistryObject<Item> PULSE_DECLINER_ITEM = ITEMS.register("pulse_decliner", () -> new pulse_decliner_item(redstone_augmented_blocks.PULSE_DECLINER.get()));
 }

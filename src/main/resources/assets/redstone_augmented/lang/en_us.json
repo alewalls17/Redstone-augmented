@@ -1,5 +1,6 @@
 {
   "item.redstone_augmented.wrench": "Wrench",
   "block.redstone_augmented.cardboard": "Cardboard",
-  "item.redstone_augmented.bone_glue": "Bone Glue"
+  "item.redstone_augmented.bone_glue": "Bone Glue",
+  "block.redstone_augmented.pulse_decliner": "Pulse decliner"
   }
